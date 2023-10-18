@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  margin: 20px;
+}
+
+#fact-container {
+  margin-top: 40px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+}
